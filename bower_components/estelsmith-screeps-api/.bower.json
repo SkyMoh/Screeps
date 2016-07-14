@@ -1,0 +1,25 @@
+{
+  "name": "estelsmith-screeps-api",
+  "version": "0.0.1",
+  "authors": [
+    "Estel Smith <estel.smith@gmail.com>"
+  ],
+  "description": "Provides IDE type-hinting for the Screeps API",
+  "main": "src/screeps.js",
+  "keywords": [
+    "screeps",
+    "api",
+    "typehint"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/estelsmith/screeps-api",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "20ed05ba39ab40b1d601632a78f14f86bfc3314e"
+  },
+  "_source": "https://github.com/estelsmith/screeps-api.git",
+  "_target": "0.0.1",
+  "_originalSource": "estelsmith-screeps-api"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "screeps",
+  "homepage": "https://github.com/SkyMoh/Screeps",
+  "authors": [
+    "Fran"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+	"dependencies": {
+  	"estelsmith-screeps-api": "0.0.1"
+  }
+}
