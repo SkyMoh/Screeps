@@ -41,6 +41,10 @@ module.exports.loop = function() {
       };
     };
   };
+
+  if (Game.spawns.Spawn1.energy == 300) {
+    console.log('Spawn1 lleno');
+  };
   var tower = Game.getObjectById('f15d2add57892e77483f0eee');
   if (tower) {
     var closestDamagedStructure = tower.pos.findClosestByRange(
